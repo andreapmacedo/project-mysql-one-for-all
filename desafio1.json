@@ -1,16 +1,22 @@
 {
     "coluna_usuario": "user_name",
     "tabela_que_contem_usuario": "tb_user",
+    
     "coluna_plano": "plan_name",
     "tabela_que_contem_plano": "tb_plan",
+    
     "coluna_historico_de_reproducoes": "id_song",
     "tabela_que_contem_historico_de_reproducoes": "tb_playback_history",
-    "coluna_seguindo_artistas": "id_user",
+    
+    "coluna_seguindo_artistas": "id_artist",
     "tabela_que_contem_seguindo_artistas": "tb_followed_artist",
+  
     "coluna_artista": "artist_name",
     "tabela_que_contem_artista": "tb_artist",
+  
     "coluna_album": "album_name",
     "tabela_que_contem_album": "tb_album",
+  
     "coluna_cancoes": "song_name",
     "tabela_que_contem_cancoes": "tb_song"
 }

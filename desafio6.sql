@@ -8,6 +8,6 @@ FROM
 INNER JOIN
     `SpotifyClone`.tb_user AS u
 ON
-    p.id = u.id;
+    p.id = u.id_plan;
     
 
